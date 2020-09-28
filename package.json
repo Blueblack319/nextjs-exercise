@@ -1,0 +1,26 @@
+{
+  "name": "nextjs-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazybirdz/nextjs-exercise.git"
+  },
+  "author": "Crazybirdz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crazybirdz/nextjs-exercise/issues"
+  },
+  "homepage": "https://github.com/crazybirdz/nextjs-exercise#readme",
+  "dependencies": {
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
